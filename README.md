@@ -75,9 +75,8 @@ A strong emphasis was placed on transforming data into meaningful narratives:
 
 ## 🔗 Project Link
 
-👉 (https://public.tableau.com/app/profile/robert.aldous/vizzes)
+👉 [Link to my report](https://public.tableau.com/app/profile/robert.aldous/vizzes)
 
-*(Replace with your published dashboard link if needed.)*
 
 ---
 
