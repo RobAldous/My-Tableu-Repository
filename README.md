@@ -1,14 +1,14 @@
-# Tableau Data Visualization Project
+# Tableau Data Visualisation Project
 
 ## Overview
-This project showcases a series of interactive Tableau dashboards developed during a Data Technician bootcamp. The goal was to analyze and present insights from real-world datasets, with a strong focus on **data storytelling**, **user interactivity**, and **clear visual communication**.
+This project showcases a series of interactive Tableau dashboards developed during a Data Technician bootcamp. The goal was to analyse and present insights from real-world datasets, with a strong focus on **data storytelling**, **user interactivity**, and **clear visual communication**.
 
 The dashboards explore trends in **retail and sales-style datasets** as well as analytical scenarios, turning raw data into actionable insights for decision-making.
 
 ## Key Features
 
 - **Interactive Dashboards**
-  - Designed dynamic dashboards combining multiple visualizations into a single view
+  - Designed dynamic dashboards combining multiple visualisations into a single view
   - Implemented user-driven exploration through filters and controls
 
 - **Advanced Tableau Functionality**
@@ -16,7 +16,7 @@ The dashboards explore trends in **retail and sales-style datasets** as well as 
   - Built **calculated fields** to derive new metrics and enhance analysis
   - Used **parameters and interactive elements** to improve usability
 
-- **Data Visualizations**
+- **Data Visualisations**
   - Developed a variety of chart types, including:
     - Bar Charts (comparisons across categories)
     -  Line Charts (trend analysis over time)
@@ -42,7 +42,7 @@ A strong emphasis was placed on transforming data into meaningful narratives:
 ## Skills Demonstrated
 
 - Data Cleaning and Preparation (Tableau)
-- Data Visualization Best Practices
+- Data Visualisation Best Practices
 - Interactive Dashboard Design
 - Analytical Thinking and Insight Generation
 - KPI Creation and Interpretation
@@ -52,12 +52,12 @@ A strong emphasis was placed on transforming data into meaningful narratives:
 
 - **Tableau Public / Tableau Desktop**
 - Excel / CSV data sources
-- Data visualization and BI techniques
+- Data visualisation and BI techniques
 
 ## Example Outputs
 
 - Global and regional trend dashboards
-- Comparative performance visualizations
+- Comparative performance visualisations
 - Interactive dashboards with drill-down capabilities
 
 ## Project Link
